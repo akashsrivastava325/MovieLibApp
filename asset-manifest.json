@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c82806bd.css",
-    "main.js": "/static/js/main.d7dbab26.js",
-    "static/media/mainCover.jpg": "/static/media/mainCover.f12ef39177f347b52254.jpg",
-    "static/media/MovieLIB.svg": "/static/media/MovieLIB.a249ab2b905cc66c20a64780535bb19f.svg",
-    "index.html": "/index.html",
-    "main.c82806bd.css.map": "/static/css/main.c82806bd.css.map",
-    "main.d7dbab26.js.map": "/static/js/main.d7dbab26.js.map"
+    "main.css": "/MovieLibApp/static/css/main.c82806bd.css",
+    "main.js": "/MovieLibApp/static/js/main.ada6658c.js",
+    "static/media/mainCover.jpg": "/MovieLibApp/static/media/mainCover.f12ef39177f347b52254.jpg",
+    "static/media/MovieLIB.svg": "/MovieLibApp/static/media/MovieLIB.a249ab2b905cc66c20a64780535bb19f.svg",
+    "index.html": "/MovieLibApp/index.html",
+    "main.c82806bd.css.map": "/MovieLibApp/static/css/main.c82806bd.css.map",
+    "main.ada6658c.js.map": "/MovieLibApp/static/js/main.ada6658c.js.map"
   },
   "entrypoints": [
     "static/css/main.c82806bd.css",
-    "static/js/main.d7dbab26.js"
+    "static/js/main.ada6658c.js"
   ]
 }
